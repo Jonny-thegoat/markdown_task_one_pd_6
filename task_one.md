@@ -32,3 +32,11 @@ _ _ _
 ## My Favorite Command
 
 git add . - This command saves all my photo project
+
+
+
+
+
+
+
+![verity](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTv6-A7RW4tIsEL7MQjgPzV_ezO2qAxAA9Klh2-pKqg&s=10)
